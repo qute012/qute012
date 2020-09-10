@@ -12,7 +12,7 @@
 - Large-Scale End-to-End Speech Recognition System
 - Small-Scale Keyword Spotting Few-Shot Learning
 - Automatic Data Construction and Semi-Supervised Learning(Pseudo-Labeling)
-- LayoutLM for extract image to text (OCR) each segment
+- LayoutLM for extract text from image (OCR) each segment
 - Adative Data Features Optimizing Models
 - Recently Deep Learning Technique
 
