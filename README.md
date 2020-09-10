@@ -1,20 +1,20 @@
-### Hi there 👋
-
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 </div>
 
-### Machine Learning Engineer
-- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
+### 😄 I am
+- Machine Learning Engineer
+- I organize a group of CILab
 
-### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
+### 🌱 Interesting
+- Large-Scale End-to-End Speech Recognition System
+- Small-Scale Keyword Spotting Few-Shot Learning
+- Automatic Data Construction and Semi-Supervised Learning(Pseudo-Labeling)
+- LayoutLM for extract image to text (OCR) each segment
+- Adative Data Features Optimizing Models
+- Recently Deep Learning Technique
 
 <div align=center>
 
