@@ -6,7 +6,7 @@
 
 ### 😄 I am
 - Machine Learning Engineer
-- I organize a group of CILab
+- I'm in CILab
 
 ### 🌱 Interesting
 - Large-Scale End-to-End Speech Recognition System
