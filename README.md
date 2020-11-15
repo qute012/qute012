@@ -5,8 +5,7 @@
 </div>
 
 ### 😄 I am
-- Machine Learning Engineer
-- I'm in CILab
+- I'm studying Kumoh University
 
 ### 🌱 Interesting
 - Large-Scale End-to-End Speech Recognition System
