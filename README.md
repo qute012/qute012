@@ -8,18 +8,17 @@
 - I'm studying Kumoh University
 
 ### 🌱 Interesting
-- Large-Scale End-to-End Speech Recognition System
-- Small-Scale Keyword Spotting Few-Shot Learning
-- Automatic Data Construction and Semi-Supervised Learning(Pseudo-Labeling)
-- LayoutLM for extract text from image (OCR) each segment
-- Adative Data Features Optimizing Models
-- Recently Deep Learning Technique
+- large-scale End-to-End automatic speech recognition
+- Learning small-scale data
+- Optimizing and Quantizing models
+- Edge computing
+- knowledge graph and ontology
 
 ![DeokJin's github stats](https://github-readme-stats.vercel.app/api?username=qute012&show_icons=true)
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/qute012/DailyCommit)](https://github.com/qute012/DailyCommit) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/qute012/paper-review)](https://github.com/qute012/paper-review) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ejrwls012@gmail.com)](mailto:ejrwls012@gmail.com)
 </div>
 
