@@ -12,7 +12,7 @@
 - Learning small-scale data
 - Optimizing and Quantizing models
 - Edge computing
-- knowledge graph and ontology
+- Knowledge graph and ontology
 
 ![DeokJin's github stats](https://github-readme-stats.vercel.app/api?username=qute012&show_icons=true)
 
