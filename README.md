@@ -5,7 +5,7 @@
 </div>
 
 ### 😄 I am
-- I'm studying Kumoh University
+- I am studying at Kumoh National Institute of Technology.
 
 ### 🌱 Interesting
 - large-scale End-to-End automatic speech recognition
