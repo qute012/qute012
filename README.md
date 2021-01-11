@@ -8,10 +8,10 @@
 - I am studying at Kumoh National Institute of Technology.
 
 ### 🌱 Interesting
-- large-scale End-to-End automatic speech recognition
-- Learning small-scale data
-- Optimizing and Quantizing models
-- Knowledge graph and ontology
+- large-scale automatic speech recognition based on End-to-End
+- learning small-scale data
+- optimizing and quantizing models
+- knowledge graph and build ontology
 
 ![DeokJin's github stats](https://github-readme-stats.vercel.app/api?username=qute012&show_icons=true)
 
