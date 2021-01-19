@@ -7,14 +7,19 @@
 ### 😄 I am
 - I am studying at Kumoh National Institute of Technology.
 
-### ⚡ Interesting
+## Interesting
 - large-scale automatic speech recognition based on End-to-End
 - learning small-scale data
 - optimizing and quantizing models
 - Few-shot Learning
 - NLP
 
-### 💬 Contact
+## Publications
+- Wav2Keyword Transfer Learning from Speech Representations for Keyword Spotting(under submitted) (2020 IEEE Access)
+- An Analysis of BERT Fine-tuning Approach for Keyphrase Extraction in Scientific Articles (2020 JAITC)
+- An Automatic Data Construction Approach for Korean Speech Command Recognition (2018 JKSCI)
+
+## Contact
 email: 406023@naver.com or ejrwls012@gmail.com
 
 ![DeokJin's github stats](https://github-readme-stats.vercel.app/api?username=qute012&show_icons=true)
