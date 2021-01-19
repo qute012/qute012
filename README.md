@@ -15,7 +15,7 @@
 - NLP
 
 ## Publications
-- Wav2Keyword Transfer Learning from Speech Representations for Keyword Spotting(under submitted) (2020 IEEE Access)
+- Wav2Keyword Transfer Learning from Speech Representations for Keyword Spotting(reviewing) (2020 IEEE Access)
 - An Analysis of BERT Fine-tuning Approach for Keyphrase Extraction in Scientific Articles (2020 JAITC)
 - An Automatic Data Construction Approach for Korean Speech Command Recognition (2018 JKSCI)
 
