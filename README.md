@@ -13,6 +13,9 @@
 - optimizing and quantizing models
 - knowledge graph and build ontology
 
+### 💬 Contact
+email: 406023@naver.com or ejrwls012@gmail.com
+
 ![DeokJin's github stats](https://github-readme-stats.vercel.app/api?username=qute012&show_icons=true)
 
 <div align=center>
