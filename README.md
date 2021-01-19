@@ -7,11 +7,12 @@
 ### 😄 I am
 - I am studying at Kumoh National Institute of Technology.
 
-### 🌱 Interesting
+### ⚡ Interesting
 - large-scale automatic speech recognition based on End-to-End
 - learning small-scale data
 - optimizing and quantizing models
-- knowledge graph and build ontology
+- Few-shot Learning
+- NLP
 
 ### 💬 Contact
 email: 406023@naver.com or ejrwls012@gmail.com
