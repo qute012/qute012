@@ -15,7 +15,7 @@ I am candidate bachelor of ar at Kumoh National Institute of Technology on 2021.
 - NLP
 
 ## Publications
-- Wav2Keyword Transfer Learning from Speech Representations for Keyword Spotting (2020 IEEE Access currently review)
+- Wav2Keyword Transfer Learning from Speech Representations for Keyword Spotting (2020 IEEE Access reviewing currently)
 - An Analysis of BERT Fine-tuning Approach for Keyphrase Extraction in Scientific Articles (2020 JAITC)
 - An Automatic Data Construction Approach for Korean Speech Command Recognition (2018 JKSCI)
 
