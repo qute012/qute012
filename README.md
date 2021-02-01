@@ -12,7 +12,7 @@ I am candidate bachelor of ar at Kumoh National Institute of Technology on 2021.
 - learning small-scale data
 - optimizing and quantizing models
 - Few-shot Learning
-- NLP
+- Natural Language Generator
 
 ## Publications
 - Wav2Keyword Transfer Learning from Speech Representations for Keyword Spotting (2020 IEEE Access reviewing currently)
