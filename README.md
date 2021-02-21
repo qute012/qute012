@@ -26,7 +26,7 @@ email: 406023@naver.com or ejrwls012@gmail.com
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/qute012/paper-review)](https://github.com/qute012/paper-review) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/qute012/paper-review)](https://qute012.github.io/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ejrwls012@gmail.com)](mailto:ejrwls012@gmail.com)
 </div>
 
