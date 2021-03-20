@@ -19,6 +19,9 @@ I am candidate bachelor of ar at Kumoh National Institute of Technology on 2021.
 - An Analysis of BERT Fine-tuning Approach for Keyphrase Extraction in Scientific Articles (2020 JAITC)
 - An Automatic Data Construction Approach for Korean Speech Command Recognition (2019 JKSCI)
 
+## Experience
+- ```2021.04.05~```: Research Intern. Clova AI Research, Naver Corp.
+
 ## Contact
 email: 406023@naver.com or ejrwls012@gmail.com
 
