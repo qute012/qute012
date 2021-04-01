@@ -8,10 +8,9 @@
 I am candidate bachelor of ar at Kumoh National Institute of Technology on 2021.
 
 ## Interesting
-- large-scale automatic speech recognition based on End-to-End
-- learning small-scale data
-- optimizing and quantizing models
-- Few-shot Learning
+- Large-scale ASR based on End-to-End
+- Contrastive Learning
+- Knowledge Distillation
 - Natural Language Generator
 
 ## Publications
