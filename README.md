@@ -14,7 +14,7 @@ I am candidate bachelor of ar at Kumoh National Institute of Technology on 2021.
 - Natural Language Generator
 
 ## Publications
-- Wav2Keyword Transfer Learning from Speech Representations for Keyword Spotting (2020 IEEE Access reviewing currently)
+- Wav2Keyword Transfer Learning from Speech Representations for Keyword Spotting (2021)
 - An Analysis of BERT Fine-tuning Approach for Keyphrase Extraction in Scientific Articles (2020 JAITC)
 - An Automatic Data Construction Approach for Korean Speech Command Recognition (2019 JKSCI)
 
