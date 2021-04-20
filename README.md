@@ -3,10 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqute012&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
-### 😄 I am
-I graduated at Kumoh National Institute of Technology on 2021.
-
 ## Interesting
 - Large-scale ASR based on End-to-End
 - Contrastive Learning
