@@ -5,7 +5,7 @@
 </div>
 
 ### 😄 I am
-I am candidate bachelor of ar at Kumoh National Institute of Technology on 2021.
+I graduated at Kumoh National Institute of Technology on 2021.
 
 ## Interesting
 - Large-scale ASR based on End-to-End
