@@ -17,7 +17,7 @@
 
 ## Experience
 - ```2021.04.05 ~ ```: Research Intern. Clova Speech, Naver Corp.
-- ```2021.04.05 ~ ```: ML Engineer. Clova Speech, Naver Corp.
+- ```2021.12.13 ~ ```: ML Engineer. Clova Speech, Naver Corp.
 
 ## Contact
 email: 406023@naver.com or ejrwls012@gmail.com
